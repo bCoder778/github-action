@@ -7,4 +7,5 @@ func main(){
 	fmt.Println(action.B())
 	fmt.Println(action.A())
 	fmt.Println(action.A())
+	fmt.Println(action.A())
 }
