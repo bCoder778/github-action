@@ -22,7 +22,7 @@ jobs:
       id: go
 
     - name: Check out source code
-      uses: actions/checkout@v1
+      uses: actions/checkout@master
 
     - name: Build
       run: go build .
