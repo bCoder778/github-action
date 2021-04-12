@@ -5,5 +5,5 @@ func A()string{
 }
 
 func B()string{
-	return "C"
+	return "D"
 }
